@@ -1,1 +1,2 @@
-Hello world!
+Hello world!<br>
+<img src="cat.jpg" width=100>
